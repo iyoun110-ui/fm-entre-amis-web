@@ -1,0 +1,19 @@
+{
+  "name": "FM entre amis",
+  "short_name": "FM amis",
+  "lang": "fr",
+  "start_url": "/fm-entre-amis-web/",
+  "scope": "/fm-entre-amis-web/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D1117",
+  "theme_color": "#0D1117",
+  "icons": [
+    {
+      "src": "/fm-entre-amis-web/icone.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
